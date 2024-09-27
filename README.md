@@ -1,5 +1,6 @@
 # House_Price_Prediction
-![Screenshot (102)](https://github.com/user-attachments/assets/5c342509-375a-4dc2-a5ad-3b1a9179f33b)
+![Screenshot (102)](https://github.com/user-attachments/assets/2a95d5a5-42be-42f0-bbd6-0fb9e8b5e199)
+
 
 
 The "House Price Prediction" project aims to develop a model that can accurately predict housing prices based on various features. This prediction task is of great significance in real estate and finance, enabling informed decision-making for buyers, sellers, and investors. By employing machine learning algorithms and a curated dataset, this project provides a powerful tool for estimating house price.</br>
